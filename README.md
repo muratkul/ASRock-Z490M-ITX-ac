@@ -15,10 +15,13 @@ ASRock Z490M-ITX/ac with OpenCore
 - HDMI
 - Onboard Wi-Fi
 - Onboard Bluetooth
+- Onboard Audio jack
 
 # Not Working
 
 - Sleep not working properly (wakes up after 1 min.)
+- Front audio jack
+- HDMI audio
 
 # Not Tested
 
